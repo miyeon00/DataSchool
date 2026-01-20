@@ -1,0 +1,152 @@
+{
+  "alice": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "description": "Milk, eggs, bread",
+      "completed": false,
+      "created_at": "2026-01-09T17:10:05.576274",
+      "updated_at": "2026-01-09T17:10:05.576324"
+    },
+    {
+      "id": 3,
+      "title": "Exercise",
+      "description": "30 minutes workout",
+      "completed": true,
+      "created_at": "2026-01-09T17:10:05.624998",
+      "updated_at": "2026-01-14T09:34:54.882942"
+    },
+    {
+      "id": 4,
+      "title": "test",
+      "description": "",
+      "completed": false,
+      "created_at": "2026-01-09T17:16:13.309524",
+      "updated_at": "2026-01-09T17:16:13.309537"
+    },
+    {
+      "id": 5,
+      "title": "Buy groceries",
+      "description": "Milk, eggs, bread",
+      "completed": false,
+      "created_at": "2026-01-14T09:13:19.899031",
+      "updated_at": "2026-01-14T09:13:19.899098"
+    },
+    {
+      "id": 6,
+      "title": "Finish project",
+      "description": "Complete the Python CRUD service",
+      "completed": false,
+      "created_at": "2026-01-14T09:13:19.906835",
+      "updated_at": "2026-01-14T09:13:19.906856"
+    },
+    {
+      "id": 7,
+      "title": "Exercise",
+      "description": "30 minutes workout",
+      "completed": false,
+      "created_at": "2026-01-14T09:13:19.913610",
+      "updated_at": "2026-01-14T09:13:19.913629"
+    },
+    {
+      "id": 8,
+      "title": "Buy groceries",
+      "description": "Milk, eggs, bread",
+      "completed": false,
+      "created_at": "2026-01-14T09:34:54.839670",
+      "updated_at": "2026-01-14T09:34:54.839764"
+    },
+    {
+      "id": 9,
+      "title": "Finish project",
+      "description": "Complete the Python CRUD service",
+      "completed": false,
+      "created_at": "2026-01-14T09:34:54.847592",
+      "updated_at": "2026-01-14T09:34:54.847604"
+    },
+    {
+      "id": 10,
+      "title": "Exercise",
+      "description": "30 minutes workout",
+      "completed": false,
+      "created_at": "2026-01-14T09:34:54.857355",
+      "updated_at": "2026-01-14T09:34:54.857371"
+    }
+  ],
+  "bob": [
+    {
+      "id": 1,
+      "title": "Study Python",
+      "description": "Learn decorators and generators",
+      "completed": false,
+      "created_at": "2026-01-09T17:10:05.694678",
+      "updated_at": "2026-01-09T17:10:05.694691"
+    },
+    {
+      "id": 2,
+      "title": "Write report",
+      "description": "Q1 2026 analysis report",
+      "completed": false,
+      "created_at": "2026-01-09T17:10:05.713075",
+      "updated_at": "2026-01-14T09:34:54.939647"
+    },
+    {
+      "id": 3,
+      "title": "Study Python",
+      "description": "Learn decorators and generators",
+      "completed": false,
+      "created_at": "2026-01-14T09:13:19.926349",
+      "updated_at": "2026-01-14T09:13:19.926360"
+    },
+    {
+      "id": 4,
+      "title": "Write report",
+      "description": "Q1 analysis report",
+      "completed": false,
+      "created_at": "2026-01-14T09:13:19.931576",
+      "updated_at": "2026-01-14T09:13:19.931593"
+    },
+    {
+      "id": 5,
+      "title": "Study Python",
+      "description": "Learn decorators and generators",
+      "completed": false,
+      "created_at": "2026-01-14T09:34:54.908608",
+      "updated_at": "2026-01-14T09:34:54.908628"
+    },
+    {
+      "id": 6,
+      "title": "Write report",
+      "description": "Q1 analysis report",
+      "completed": false,
+      "created_at": "2026-01-14T09:34:54.921376",
+      "updated_at": "2026-01-14T09:34:54.921398"
+    }
+  ],
+  "charlie": [
+    {
+      "id": 1,
+      "title": "Setup environment",
+      "description": "Install dependencies",
+      "completed": false,
+      "created_at": "2026-01-09T17:10:05.733451",
+      "updated_at": "2026-01-09T17:10:05.733464"
+    },
+    {
+      "id": 2,
+      "title": "Setup environment",
+      "description": "Install dependencies",
+      "completed": false,
+      "created_at": "2026-01-14T09:13:19.943897",
+      "updated_at": "2026-01-14T09:13:19.943912"
+    },
+    {
+      "id": 3,
+      "title": "Setup environment",
+      "description": "Install dependencies",
+      "completed": false,
+      "created_at": "2026-01-14T09:34:54.949646",
+      "updated_at": "2026-01-14T09:34:54.949668"
+    }
+  ]
+}
