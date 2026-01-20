@@ -1,5 +1,5 @@
 ## MS -DATA SCOOL 3기 내용정리 
-1.웹 스크래핑을 이용하여 데이터 수집 후 , WordCloud 사용 한 결과
+1.웹 스크래핑을 이용하여 데이터 수집 후 , WordCloud 사용 한 결과 - / 날짜 26.1.20
  - 사용기술
  - 1) selenium - scrapping
    2) pandas - read 스크래핑한 csv 파일
